@@ -11,6 +11,7 @@ A list of open source Ember apps
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 * [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
+* [Travis CI web client](https://github.com/travis-ci/travis-web)
 
 ## Ember `2.1.x`
 
@@ -29,7 +30,6 @@ A list of open source Ember apps
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 * [Ilios Frontend](https://github.com/ilios/frontend)
-* [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Davros](https://github.com/mnutt/davros)
 * [Participate](https://github.com/oliverbarnes/participate)
 
